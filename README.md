@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=#F7DF1E&logoColor=61DAFB" />
